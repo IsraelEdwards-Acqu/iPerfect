@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "iPerfect",
   "resources": {
-    "hash": "sha256-lAM9gCvz3oQt15U9pG47IeVqrGXoaGNFT+4fOJh6XN4=",
+    "hash": "sha256-8k5eIC7hYlv/6e/dbQXmqnd/TWCRhgDZKO4HqETJRcU=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-JTswf4CBcNmmrTGm6DppxYNII8GVEmbA3iXD3bU1fcA="
     },
@@ -43,7 +43,7 @@
       "System.Private.Windows.GdiPlus.wasm": "sha256-BGdz9EvV4zQZoZontBEnaef2L8/Zc6tUyrW60cZb2UA=",
       "System.IO.Pipelines.wasm": "sha256-WHAFyELzncyzvvhMPBUkR/SJCBejHqkl1KbORcR8Yxc=",
       "System.Text.Encodings.Web.wasm": "sha256-ifrbjktZFl0bfZSTNzmlaFInKzkJXDJdqcWVZ1G0AEM=",
-      "System.Text.Json.wasm": "sha256-IfhHYXnYtzaMVrqc9ozcidMyyf3QGdHhD/ZmbCxSvhc=",
+      "System.Text.Json.wasm": "sha256-d+HLCpLMx3R1RLUj/LRwn3bHCge/Qc1by3j2BwqLPk0=",
       "XmpCore.wasm": "sha256-FdopaUvC+JhGhPwPkpeKS04oe/db6rK2lt08cUvnIUE=",
       "Microsoft.Win32.Primitives.wasm": "sha256-D1YEHa1j7eGusIcFH8Bhbo6zuNhitkwIeV5Cjz04xjY=",
       "System.Collections.Concurrent.wasm": "sha256-bK8+O5kKkCzyB9+M70uUENgGvtK8x/X/LmRiPqOVhD4=",
@@ -66,7 +66,7 @@
       "System.Linq.wasm": "sha256-22XiJoBHnwR6C6VS1PGFs7iXjP7degE0CN7+HKKuLQM=",
       "System.Memory.wasm": "sha256-U1Dr1iEk7TRJEyuzlIMznNcsQvp6k73/sTwRkc2G9JM=",
       "System.Net.Http.Json.wasm": "sha256-4/aNJEhZard3sc9WnKPd49lPcOtgo50JVy/0WGFhXAY=",
-      "System.Net.Http.wasm": "sha256-eCVrI6th6JfEVizlhLcCrcCZDfFsB5G8lnC0o6e+prw=",
+      "System.Net.Http.wasm": "sha256-8RLymgS9piHp44ExIkuwwxxmf2qPoe08xb6qIvrvD0U=",
       "System.Net.Primitives.wasm": "sha256-cRm+6PGM324Md90SMykqGAKeiFuFebYkhWUbvf/hVa0=",
       "System.Numerics.Vectors.wasm": "sha256-wWAjIt9CfT+eoGksRbYU89sv72oCFD6TaTsDqwRfySM=",
       "System.ObjectModel.wasm": "sha256-hWUmXzGg6VXXCvpUHCEqzjAFXusjifM12HN8gRQBvps=",
@@ -87,7 +87,7 @@
       "System.wasm": "sha256-j0ZGZpl3U3v6Y5aQxnvY7OqOdRv9E3uPI4tGitwhjXI=",
       "netstandard.wasm": "sha256-vWSFpeaAZY/ZcjlkYuZ0hTyoehDTeVGHs5qkCp9mGUQ=",
       "System.Private.CoreLib.wasm": "sha256-UWFQHPxxsG8QNoXsjvsA5RbJxyu5yx1WHMDhUHpoSMw=",
-      "iPerfect.wasm": "sha256-l9nkTSgTCuuTqfpojAFQbN3QVaX6ieAqCo76Rjc0V5k="
+      "iPerfect.wasm": "sha256-LQXKxnulG/hxKhJ7N48GrRyeyaco3oU03yk69i1nA/o="
     }
   },
   "cacheBootResources": true,

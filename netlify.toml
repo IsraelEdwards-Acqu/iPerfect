@@ -4,4 +4,3 @@
 
 [build.environment]
   DOTNET_VERSION = "8.0.100"
-

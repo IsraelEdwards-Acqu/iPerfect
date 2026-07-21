@@ -35,10 +35,7 @@
 }
 
     .hero::before {
-        content: "";
-        position: absolute;
-        inset: 0;
-        background: url("images/hero-pattern.svg") repeat;
+        background: url("/images/hero-pattern.svg") repeat;
         opacity: 0.08;
     }
 
